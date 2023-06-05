@@ -1,0 +1,70 @@
+#bass-img {
+  margin: 0 auto;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: #321410;
+  color: #c1c1c1;
+  font-family: Georgia;
+  margin: 0;
+  overflow-x: hidden;
+}
+main {
+  /*background-image: linear-gradient(to right, #321410, #d0d0d0 10% 90%, #321410);*/
+  margin: 0 auto;
+  width: 90%;
+  border-radius: 10px;
+  padding-top: 2px;
+}
+h1 {
+  text-align: center;
+  text-shadow: 0 0 2px;
+  font-size: 3rem;
+}
+#img-div {
+  width: 60%; 
+  margin: 0 auto;
+  background-color: #8C7874;
+  color: #321410;
+  padding: 10px;
+  border-radius: 10px;
+}
+#image {
+  width: 50%; 
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: center;
+  margin: 5px auto;
+}
+figcaption {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  margin: 25px;
+}
+#tribute-info {
+  width: 60%;
+  display: block;
+  margin: 20px auto;
+  font-size: 20px;
+  font-weight: 400;
+}
+label {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  font-weight: 700;
+}
+footer {
+  margin: 40px auto;
+  text-align: center;
+}
+a {
+  color: #e4b56b;
+}
+a:hover {
+  color: white;
+}
